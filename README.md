@@ -1,4 +1,3 @@
 # quiz_app
 
-A new Flutter project.
-
+A new simple quiz project made with flutter framework
