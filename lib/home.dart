@@ -57,7 +57,7 @@ class _homepageState extends State<homepage> {
                 Container(
                   padding: EdgeInsets.all(20.0),
                   child: Text(
-                    "Let's test your Python skill via this quiz, just spend less than 5 mins !",
+                    "Let's test your Python skill via this quiz, just spend less than 1 min!",
                     style: TextStyle(
                       fontSize: 20,
                     ),
