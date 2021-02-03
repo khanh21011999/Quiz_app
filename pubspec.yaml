@@ -30,6 +30,7 @@ dependencies:
   cupertino_icons: ^1.0.0
 
 dev_dependencies:
+  gradient_app_bar: ^0.0.1
   flutter_test:
     sdk: flutter
 

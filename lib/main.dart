@@ -9,10 +9,9 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       title: "Quiz",
-
       theme: ThemeData(
         primarySwatch: Colors.lightGreen,
-        fontFamily: "Google",
+        fontFamily: "Google"
       ),
       home: splashscreen(),
     );
