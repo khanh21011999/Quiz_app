@@ -4,23 +4,23 @@
 code được tham khảo ở : https://www.youtube.com/watch?v=yHrpx4PoBzU&ab_channel=DesiProgrammer
 
 Result:
-  Welcome screen:
+  Welcome screen:</br>
   
   <img src="https://user-images.githubusercontent.com/37074707/106854150-66a05d00-66ed-11eb-8990-498d9fa9b3f4.png" width="300" height="700">
   
 
 
- Home Screen: 
+ Home Screen: </br>
  <img src="https://user-images.githubusercontent.com/37074707/106854629-3a391080-66ee-11eb-8c3c-d66710232eba.png" width="300" height="700">
  
 
  
- Quiz Page:
+ Quiz Page: </br>
  <img src="https://user-images.githubusercontent.com/37074707/106854701-576ddf00-66ee-11eb-80e9-7c6f50454bff.png" width="300" height="700">
  
 
 
-Result Page
+Result Page: </br>
 <img src="https://user-images.githubusercontent.com/37074707/106854782-7c625200-66ee-11eb-8a67-e8fd10a63781.png" width="300" height="700">
 
 
