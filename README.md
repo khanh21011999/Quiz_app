@@ -4,6 +4,7 @@
 code được tham khảo ở : https://www.youtube.com/watch?v=yHrpx4PoBzU&ab_channel=DesiProgrammer
 
 Result:
+
   Welcome screen:</br>
   
   <img src="https://user-images.githubusercontent.com/37074707/106854150-66a05d00-66ed-11eb-8990-498d9fa9b3f4.png" width="300" height="700">
