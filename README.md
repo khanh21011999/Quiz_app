@@ -32,7 +32,7 @@ Những việc đã làm:
  +Tạo cửa sổ câu hỏi, có thể có thời gian đếm ngược và thay đổi màu khi click vào câu hỏi </br>
  +Tạo trang kết quả </br>
  
-Những việc sẽ tiếp tục:
+Những việc sẽ tiếp tục: </br>
   +Hoàn thành trang kết quả </br>
   +tạo số điểm khi hoàn thành bài thi </br>
   +tạo thêm nhiều test </br>
