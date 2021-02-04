@@ -1,6 +1,7 @@
 # quiz_app
+Một app trắc nghiệm được thực hiện bằng flutter
 
-A new simple quiz project made with flutter framework 
+code được tham khảo ở : https://www.youtube.com/watch?v=yHrpx4PoBzU&ab_channel=DesiProgrammer
 
 Result:
   Welcome screen:
